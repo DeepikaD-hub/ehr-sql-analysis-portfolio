@@ -1,0 +1,46 @@
+diagnosis_code,doctor_id,department,appointment_count,avg_wait_minutes
+I20,D06,Cardiology,2,29.5000
+M54,D03,Pediatrics,1,26.0000
+I20,D07,Pediatrics,2,25.5000
+R50,D04,"General Medicine",2,25.5000
+E11,D06,Cardiology,1,25.0000
+R50,D08,Dermatology,3,24.6667
+I25,D04,"General Medicine",2,24.5000
+J06,D07,Pediatrics,2,24.0000
+M54,D06,Cardiology,1,24.0000
+L40,D02,"General Medicine",1,22.0000
+I25,D02,"General Medicine",1,21.0000
+E11,D05,Orthopedics,3,20.6667
+M54,D05,Orthopedics,3,20.3333
+I25,D07,Pediatrics,1,20.0000
+J06,D08,Dermatology,3,19.6667
+L40,D03,Pediatrics,2,19.5000
+R50,D07,Pediatrics,3,18.3333
+R50,D05,Orthopedics,3,18.0000
+E11,D08,Dermatology,4,17.6667
+E11,D02,"General Medicine",1,17.0000
+J06,D05,Orthopedics,3,16.3333
+L40,D05,Orthopedics,5,15.8000
+I25,D08,Dermatology,3,15.6667
+M54,D04,"General Medicine",2,15.5000
+M54,D02,"General Medicine",1,15.0000
+J06,D02,"General Medicine",3,14.5000
+L40,D04,"General Medicine",2,14.0000
+E11,D01,Cardiology,2,13.0000
+I20,D04,"General Medicine",1,13.0000
+I20,D02,"General Medicine",2,12.5000
+I20,D05,Orthopedics,3,11.3333
+J06,D01,Cardiology,4,10.7500
+I25,D01,Cardiology,2,10.5000
+E11,D04,"General Medicine",3,10.3333
+R50,D06,Cardiology,1,10.0000
+L40,D08,Dermatology,4,9.7500
+I20,D01,Cardiology,3,9.0000
+M54,D01,Cardiology,2,8.5000
+I20,D08,Dermatology,4,8.0000
+I20,D03,Pediatrics,2,7.0000
+R50,D03,Pediatrics,2,6.0000
+J06,D06,Cardiology,1,4.0000
+E11,D03,Pediatrics,2,NULL
+M54,D08,Dermatology,1,NULL
+L40,D01,Cardiology,1,NULL

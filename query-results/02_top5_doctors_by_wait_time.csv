@@ -1,0 +1,6 @@
+doctor_id,department,total_appointments,avg_wait_minutes
+D07,Pediatrics,8,21.7500
+D06,Cardiology,6,20.3333
+D04,"General Medicine",12,17.1818
+D05,Orthopedics,20,16.8947
+D02,"General Medicine",9,16.1250
